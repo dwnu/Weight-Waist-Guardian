@@ -17,20 +17,13 @@ Link to privacy policy of third party service providers used by the app
     • AdMob
     • Firebase Analytics
     • Crashlytics
+    • Amazon aws pinpoint
     
     
 Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
-
-
-Privacy-relevant Android permissions requested by this app
-
-Camera
-Used for permissions that are associated with accessing camera or capturing images/video from the device. This permission allows this application to capture the user's selfies in order for them to be viewed within this application. Application won’t take photos by itself and it won’t pass it to any this party services. Those photos will be stored only on your device.
-
-Storage
-Used for permissions that are associated with accessing files from the device. This permission allows this application to load the user's selfies in order for them to be viewed within this application. Application won’t do this by itself. Those files will be still stored only on your device.
+We also use third-party Service Providers to monitor and analyze the use of our Service, for example: Firebase Analytics or Amazon Pinpoint. We can pass to them neccessary personal data like ip address or unique ids.
 
 
 Cookies
@@ -41,7 +34,7 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 Service Providers
 
-At this moment we don’t do this (5th May 2018), but we may employ third-party companies and individuals due to the following reasons:
+At this moment we don’t do this (28th July 2018), but we may employ third-party companies and individuals due to the following reasons:
     • To facilitate our Service;
     • To provide the Service on our behalf;
     • To perform Service-related services; or
@@ -55,6 +48,22 @@ Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 
+Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+
+Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+The payment processors we work with are:
+    • Apple Store In-App Payments
+      Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
+    • Google Play In-App Payments
+      Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
+
+
 Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
@@ -62,12 +71,12 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 Children’s Privacy
 
-These Services do not address anyone under the age of 13 (or 16 in some of European countries - to find out if you can use it, check GDPR rules in your country). If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+We do not knowingly collect personally identifiable information from anyone under the age of 16. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 
 Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 
 Contact Us
